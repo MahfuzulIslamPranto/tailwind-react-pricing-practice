@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "path": "/",
+        "icon": "FaHome"
+    },
+    {
+        "id": 2,
+        "name": "About",
+        "path": "/about",
+        "icon": "FaUser"
+    },
+    {
+        "id": 3,
+        "name": "Services",
+        "path": "/services",
+        "icon": "FaTools"
+    },
+    {
+        "id": 4,
+        "name": "Portfolio",
+        "path": "/portfolio",
+        "icon": "FaBriefcase"
+    },
+    {
+        "id": 5,
+        "name": "Blog",
+        "path": "/blog",
+        "icon": "FaPen"
+    },
+    {
+        "id": 6,
+        "name": "Contact",
+        "path": "/contact",
+        "icon": "FaEnvelope"
+    }
+]
